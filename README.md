@@ -8,4 +8,4 @@ FitHub CRM offers a comprehensive, scalable, and user-friendly solution tailored
 - Analytics & reporting dashboards
 
 ## Demo
-[🌐 Live Demo](https://your-demo-link.com)
+[🌐 Live Demo](https://drive.google.com/drive/folders/1vw5qXLmHtzfcfZ67Yy14fnMxDq43ODq1?usp=drive_link)
